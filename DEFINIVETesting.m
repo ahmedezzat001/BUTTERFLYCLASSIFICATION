@@ -1,0 +1,10 @@
+n[per(1),n(1),val1]=AutotestType('001');
+[per(2),n(2),val2]=AutotestType('002');
+[per(3),n(3),val3]=AutotestType('003');
+[per(4),n(4),val4]=AutotestType('004');
+[per(5),n(5),val5]=AutotestType('005');
+[per(6),n(6),val6]=AutotestType('006');
+[per(7),n(7),val7]=AutotestType('007');
+[per(8),n(8),val8]=AutotestType('008');
+[per(9),n(9),val9]=AutotestType('009');
+[per(10),n(10),val10]=AutotestType('010');
